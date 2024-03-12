@@ -21,6 +21,9 @@ If students don’t have the pip package, the developers of scVelo recommend ins
 The dataset being used is included within the scVelo package as scvelo.datasets.pbmc68k() and consists of 68,000+ peripheral blood mononuclear cells (PBMC) measured using tools provided by 10X Genomics. More information can be found in this paper (Zheng et al., 2017).
 It should be noted that using this provided dataset skips several steps associated with generating input files for scVelo. While you do not need to download these tools, it is recommended that you look into the cellranger pipeline, the Loupe Browser program, and the velocyto pipeline if you were to use your own single-cell dataset.
 
+## Tutorial Notebook
+
+https://colab.research.google.com/drive/1QewjqEp5E0wGsv-EzxrvBtfsTB-nGp38?usp=sharing
 
 ## References
 
