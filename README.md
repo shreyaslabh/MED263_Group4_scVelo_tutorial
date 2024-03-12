@@ -1,5 +1,9 @@
 # MED263_Group4_scVelo_tutorial
 
+## Team Members
+Shreyas Labhsetwar, Daniel Sabater Minarim, Kevin Li
+
+
 ## Software
 Students will need to install
 -	scVelo, which is used mainly to create RNA velocity models for single-cell data (Weiler et al., 2023)
