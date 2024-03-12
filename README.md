@@ -9,7 +9,9 @@ Students will need to install
 These packages are available in Python 3.6+ and can be installed using the pip package:
 
 ````
-pip install -U scvelo pip install -U pandas pip install -U python-igraph
+pip install -U scvelo
+pip install -U pandas
+pip install -U python-igraph
 ````
 
 If students don’t have the pip package, the developers of scVelo recommend installing Miniconda beforehand.
