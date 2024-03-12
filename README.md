@@ -29,6 +29,14 @@ It should be noted that using this provided dataset skips several steps associat
 
 https://colab.research.google.com/drive/1QewjqEp5E0wGsv-EzxrvBtfsTB-nGp38?usp=sharing
 
+## Presentation
+
+https://docs.google.com/presentation/d/170XrTOhIlmuNSUoZvnK4hg3F-oSRoqokHctfyleEF1E/edit?usp=sharing
+
+## Report
+
+https://docs.google.com/document/d/1aqlELdQ0Z0uHza8UPUSjXCRSeVXCmkEzi6JOGkoumI8/edit?usp=sharing
+
 ## References
 
 1. Csardi, G., & Nepusz, T. (2006). The igraph software package for complex network research. InterJournal, Complex Systems, 1695.
